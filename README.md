@@ -25,3 +25,5 @@ Moeda de Origem: USD
 Moeda de Destino: BRL
 
 Saída: 579.00 BRL
+
+DESENVOLVIDO POR: AMANDIO ARNOLDO HOFFMANN
