@@ -2,7 +2,7 @@
 Trabalho 02 - Programação Funcional - Conversor de Moedas
 
 Para rodar o código, basta ter o python instalado, acessar a pasta onde o arquivo esta através do terminal e execute o programa Conversao.py
-No VSCODE, basta utilizar o atalho CTRL + SHIFT + D para abrir o debugger para rodar o código.
+No VSCODE basta clonar o repositório do Git(https://github.com/AmandioHoffmanna/ProgramaFuncional.git), feito isso, utilizar o atalho CTRL + SHIFT + D para abrir o debugger para rodar o código.
 
 Funcionamento da aplicação:
 
